@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.notification.fixer'
+    namespace 'com.example.notifix'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.notification.fixer"
+        applicationId "com.example.notifix"
         minSdk 24
         targetSdk 34
         versionCode 1
